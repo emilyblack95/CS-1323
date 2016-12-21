@@ -1,0 +1,5 @@
+Mascara,4.99,52
+Lipstick,3.99,20
+EyeLiner,6.99,10
+NailPolish,7.99,15
+CottonSwabs,2.99,50
